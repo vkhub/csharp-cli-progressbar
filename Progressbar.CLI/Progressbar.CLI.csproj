@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{CE1431CF-9305-435F-8B99-B038A7EB9D46}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>FunctionalInCs</RootNamespace>
-    <AssemblyName>FunctionalInCs</AssemblyName>
+    <RootNamespace>Progressbar.CLI</RootNamespace>
+    <AssemblyName>Progressbar</AssemblyName>
     <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
